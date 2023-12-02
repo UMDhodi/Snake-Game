@@ -10,7 +10,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/UMDhodi/Snake-Game/blob/main/sample.png?raw=true" alt="project-screenshot" width="500" height="50/">
+<img src="https://github.com/UMDhodi/Snake-Game/blob/main/sample.png?raw=true" alt="project-screenshot" width="500" height="300/">
 
 <h2>🛠️ Installation Steps:</h2>
 
